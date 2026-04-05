@@ -107,4 +107,5 @@ Me chamo Laura Oliveira paes, tenho 25 anos e sou natural de São Paulo. Conclu�
 <br/>
 
 ### 📈 Estatisticas 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
+
