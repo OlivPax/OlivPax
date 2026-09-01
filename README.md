@@ -109,8 +109,3 @@ Me chamo Laura Oliveira paes, tenho 25 anos e sou natural de São Paulo. Conclu�
 ### 📈 Estatisticas 
 ![Metrics](./assets/metrics.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OlivPax/OlivPax/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OlivPax/OlivPax/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/OlivPax/OlivPax/output/snake.svg">
-</picture>
