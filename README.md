@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Laura Paes
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front end`**
 
 Me chamo Laura Oliveira paes, tenho 25 anos e sou natural de São Paulo. Concluí em 2025 o Tecnólogo em Análise e Desenvolvimento de Sistemas na Anhanguera. Sou fascinada pela tecnologia e suas funcionalidades. Compartilho meus aprendizados no meu linkedin "[Laura Paes](www.linkedin.com/in/laura-oliveira-paes)" . 
 
